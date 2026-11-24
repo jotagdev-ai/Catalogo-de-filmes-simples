@@ -13,6 +13,7 @@ Objetivo
 Praticar e desenvolver minhas habilidades em HTML e CSS, adquirindo experiência na criação de páginas web.
 
 Melhorias futuras:
+
 Adicionar novos filmes ao catálogo.
 
 Melhorar a organização e o visual do site.
