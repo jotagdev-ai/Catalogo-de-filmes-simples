@@ -4,7 +4,7 @@ O objetivo é praticar meus conhecimentos em desenvolvimento web, criando uma p�
 
 Tecnologias utilizadas
 - HTML
-- CSS3
+- CSS
 
 Sobre o projeto
 Este projeto está em desenvolvimento e receberá melhorias ao longo do tempo, com novos recursos, ajustes visuais e aprimoramentos no código.
