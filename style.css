@@ -22,12 +22,19 @@ div {
     display: block;
     margin: 0 auto;
 }
+.filmes:hover { 
+    transform: translateY(-8px) scale(1.03);
+    box-shadow: 0px 5px 20px #FF1744;
+    border: 1px solid #FF1744;
+     }
 .filmes{
     width: 300px;
     margin: 30px 0;
     text-align: center;
     background-color: #2A2A2A;
     border-radius: 15px;
+    transition: 0.3s;
+    cursor: pointer;
 }
 .filmes p {
     height: 60px;
