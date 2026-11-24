@@ -14,10 +14,7 @@ Praticar e desenvolver minhas habilidades em HTML e CSS, adquirindo experiência
 
 Melhorias futuras:
 
-Adicionar novos filmes ao catálogo.
-
-Melhorar a organização e o visual do site.
-
-Implementar novas funcionalidades.
-
-Aprimorar o código conforme minha evolução.
+- Adicionar novos filmes ao catálogo.
+- Melhorar a organização e o visual do site.
+- Implementar novas funcionalidades.
+- Aprimorar o código conforme minha evolução.
